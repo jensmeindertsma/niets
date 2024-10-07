@@ -1,0 +1,1202 @@
+NOTE: Times are not synced for these log entries.
+------------------------------------------------------------------------
+Count:1 Event#3.2326 2016-02-05 21:23:15
+ET POLICY Reserved Internal IP Traffic
+10.41.245.114 -> 10.41.245.255
+IPVer=4 hlen=5 tos=0 dlen=96 ID=15 flags=0 offset=0 ttl=128 chksum=15034
+Protocol: 17 sport=137 -> dport=137
+
+len=76 chksum=61018
+------------------------------------------------------------------------
+Count:1 Event#3.2327 2016-02-05 21:23:18
+ET POLICY Reserved Internal IP Traffic
+10.2.41.7 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=173 ID=57204 flags=0 offset=0 ttl=54 chksum=29223
+Protocol: 17 sport=53 -> dport=62660
+
+len=153 chksum=26551
+------------------------------------------------------------------------
+Count:1 Event#3.2328 2016-02-05 21:23:18
+ET DNS Standard query response, Name Error
+10.2.41.7 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=173 ID=57204 flags=0 offset=0 ttl=54 chksum=29223
+Protocol: 17 sport=53 -> dport=62660
+
+len=153 chksum=26551
+------------------------------------------------------------------------
+Count:1 Event#3.2329 2016-02-05 21:23:18
+ET POLICY Reserved Internal IP Traffic
+10.2.41.8 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=173 ID=127 flags=0 offset=0 ttl=54 chksum=20764
+Protocol: 17 sport=53 -> dport=62660
+
+len=153 chksum=18087
+------------------------------------------------------------------------
+Count:1 Event#3.2330 2016-02-05 21:23:18
+ET DNS Standard query response, Name Error
+10.2.41.8 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=173 ID=127 flags=0 offset=0 ttl=54 chksum=20764
+Protocol: 17 sport=53 -> dport=62660
+
+len=153 chksum=18087
+------------------------------------------------------------------------
+Count:1 Event#3.2331 2016-02-05 21:24:00
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+206.190.37.99 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=909 ID=56471 flags=2 offset=0 ttl=50 chksum=29974
+Protocol: 6 sport=443 -> dport=49185
+
+Seq=3334181067 Ack=2787251196 Off=5 Res=0 Flags=***AP*** Win=52 urp=48141 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2332 2016-02-05 21:24:00
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+206.190.37.99 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=909 ID=56472 flags=2 offset=0 ttl=50 chksum=29973
+Protocol: 6 sport=443 -> dport=49185
+
+Seq=3334181067 Ack=2787251196 Off=5 Res=0 Flags=***AP*** Win=52 urp=48141 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2333 2016-02-05 21:24:03
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+98.136.189.41 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=36356 flags=2 offset=0 ttl=50 chksum=38439
+Protocol: 6 sport=443 -> dport=49189
+
+Seq=4170051309 Ack=2441994710 Off=5 Res=0 Flags=***A**** Win=62 urp=13787 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2334 2016-02-05 21:24:03
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+98.136.189.41 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=43526 flags=2 offset=0 ttl=51 chksum=31013
+Protocol: 6 sport=443 -> dport=49188
+
+Seq=2106703236 Ack=975495533 Off=5 Res=0 Flags=***A**** Win=62 urp=56862 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2335 2016-02-05 21:24:03
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+216.39.55.13 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=29699 flags=2 offset=0 ttl=51 chksum=49061
+Protocol: 6 sport=443 -> dport=49187
+
+Seq=4130878181 Ack=992780515 Off=5 Res=0 Flags=***A**** Win=31 urp=64065 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2336 2016-02-05 21:24:03
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+216.39.55.13 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=41710 flags=2 offset=0 ttl=50 chksum=37306
+Protocol: 6 sport=443 -> dport=49186
+
+Seq=2913017446 Ack=1916397871 Off=5 Res=0 Flags=***A**** Win=31 urp=13548 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2337 2016-02-05 21:24:03
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+98.136.189.41 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=36357 flags=2 offset=0 ttl=50 chksum=38438
+Protocol: 6 sport=443 -> dport=49189
+
+Seq=4170051309 Ack=2441994710 Off=5 Res=0 Flags=***A**** Win=62 urp=13787 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2338 2016-02-05 21:24:03
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+98.136.189.41 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=43527 flags=2 offset=0 ttl=51 chksum=31012
+Protocol: 6 sport=443 -> dport=49188
+
+Seq=2106703236 Ack=975495533 Off=5 Res=0 Flags=***A**** Win=62 urp=56862 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2339 2016-02-05 21:24:03
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+216.39.55.13 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=29700 flags=2 offset=0 ttl=51 chksum=49060
+Protocol: 6 sport=443 -> dport=49187
+
+Seq=4130878181 Ack=992780515 Off=5 Res=0 Flags=***A**** Win=31 urp=64065 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2340 2016-02-05 21:24:03
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+216.39.55.13 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=41711 flags=2 offset=0 ttl=50 chksum=37305
+Protocol: 6 sport=443 -> dport=49186
+
+Seq=2913017446 Ack=1916397871 Off=5 Res=0 Flags=***A**** Win=31 urp=13548 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2341 2016-02-05 21:24:03
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+98.136.189.41 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=36358 flags=2 offset=0 ttl=50 chksum=38437
+Protocol: 6 sport=443 -> dport=49189
+
+Seq=4170052676 Ack=2441994710 Off=5 Res=0 Flags=***A**** Win=62 urp=59169 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2342 2016-02-05 21:24:03
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+98.136.189.41 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1402 ID=36359 flags=2 offset=0 ttl=50 chksum=38441
+Protocol: 6 sport=443 -> dport=49189
+
+Seq=4170054043 Ack=2441994710 Off=5 Res=0 Flags=***AP*** Win=62 urp=13796 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2343 2016-02-05 21:24:03
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+216.39.55.13 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=29701 flags=2 offset=0 ttl=51 chksum=49059
+Protocol: 6 sport=443 -> dport=49187
+
+Seq=4130879548 Ack=992780515 Off=5 Res=0 Flags=***A**** Win=31 urp=13319 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2344 2016-02-05 21:24:03
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+216.39.55.13 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=41712 flags=2 offset=0 ttl=50 chksum=37304
+Protocol: 6 sport=443 -> dport=49186
+
+Seq=2913018813 Ack=1916397871 Off=5 Res=0 Flags=***A**** Win=31 urp=4549 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2345 2016-02-05 21:24:03
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+98.136.189.41 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=43528 flags=2 offset=0 ttl=51 chksum=31011
+Protocol: 6 sport=443 -> dport=49188
+
+Seq=2106704603 Ack=975495533 Off=5 Res=0 Flags=***A**** Win=62 urp=60250 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2346 2016-02-05 21:24:03
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+98.136.189.41 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1402 ID=43529 flags=2 offset=0 ttl=51 chksum=31015
+Protocol: 6 sport=443 -> dport=49188
+
+Seq=2106705970 Ack=975495533 Off=5 Res=0 Flags=***AP*** Win=62 urp=14877 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2347 2016-02-05 21:25:31
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+204.79.197.200 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=20909 flags=2 offset=0 ttl=118 chksum=7192
+Protocol: 6 sport=443 -> dport=49195
+
+Seq=4281529780 Ack=1600384637 Off=5 Res=0 Flags=***A**** Win=62911 urp=8507 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2348 2016-02-05 21:25:31
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+204.79.197.200 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=20910 flags=2 offset=0 ttl=118 chksum=7191
+Protocol: 6 sport=443 -> dport=49195
+
+Seq=4281529780 Ack=1600384637 Off=5 Res=0 Flags=***A**** Win=62911 urp=8507 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2349 2016-02-05 21:25:31
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+204.79.197.200 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=20912 flags=2 offset=0 ttl=118 chksum=7189
+Protocol: 6 sport=443 -> dport=49195
+
+Seq=4281531147 Ack=1600384637 Off=5 Res=0 Flags=***AP*** Win=62911 urp=17736 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2350 2016-02-05 21:25:31
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+204.79.197.200 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=20913 flags=2 offset=0 ttl=118 chksum=7188
+Protocol: 6 sport=443 -> dport=49195
+
+Seq=4281532514 Ack=1600384637 Off=5 Res=0 Flags=***A**** Win=62911 urp=59712 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2351 2016-02-05 21:25:31
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+204.79.197.200 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=20914 flags=2 offset=0 ttl=118 chksum=7187
+Protocol: 6 sport=443 -> dport=49195
+
+Seq=4281533881 Ack=1600384637 Off=5 Res=0 Flags=***A**** Win=62911 urp=34632 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2352 2016-02-05 21:25:31
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+204.79.197.200 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=20915 flags=2 offset=0 ttl=118 chksum=7186
+Protocol: 6 sport=443 -> dport=49195
+
+Seq=4281535248 Ack=1600384637 Off=5 Res=0 Flags=***AP*** Win=62911 urp=40903 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2353 2016-02-05 21:25:31
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+204.79.197.200 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=20916 flags=2 offset=0 ttl=118 chksum=7185
+Protocol: 6 sport=443 -> dport=49195
+
+Seq=4281536615 Ack=1600384637 Off=5 Res=0 Flags=***A**** Win=62911 urp=3091 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2354 2016-02-05 21:25:31
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+204.79.197.200 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=20917 flags=2 offset=0 ttl=118 chksum=7184
+Protocol: 6 sport=443 -> dport=49195
+
+Seq=4281537982 Ack=1600384637 Off=5 Res=0 Flags=***A**** Win=62911 urp=27851 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2355 2016-02-05 21:25:36
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+204.79.197.200 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=20993 flags=2 offset=0 ttl=119 chksum=6852
+Protocol: 6 sport=443 -> dport=49197
+
+Seq=4240587354 Ack=302358242 Off=5 Res=0 Flags=***A**** Win=64249 urp=21150 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2356 2016-02-05 21:25:36
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+204.79.197.200 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=20994 flags=2 offset=0 ttl=119 chksum=6851
+Protocol: 6 sport=443 -> dport=49197
+
+Seq=4240587354 Ack=302358242 Off=5 Res=0 Flags=***A**** Win=64249 urp=21150 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2363 2016-02-05 21:27:12
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+204.79.197.200 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=52 ID=29644 flags=2 offset=0 ttl=119 chksum=65091
+Protocol: 6 sport=443 -> dport=49231
+
+Seq=2624967340 Ack=3516257954 Off=8 Res=0 Flags=***A**** Win=512 urp=49015 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2364 2016-02-05 21:27:12
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+204.79.197.200 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=29645 flags=2 offset=0 ttl=119 chksum=63735
+Protocol: 6 sport=443 -> dport=49231
+
+Seq=2624967340 Ack=3516257954 Off=5 Res=0 Flags=***AP*** Win=512 urp=13625 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2365 2016-02-05 21:27:12
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+204.79.197.200 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=29646 flags=2 offset=0 ttl=119 chksum=63734
+Protocol: 6 sport=443 -> dport=49231
+
+Seq=2624968707 Ack=3516257954 Off=5 Res=0 Flags=***A**** Win=512 urp=50525 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2366 2016-02-05 21:27:12
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+204.79.197.200 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=29647 flags=2 offset=0 ttl=119 chksum=63733
+Protocol: 6 sport=443 -> dport=49231
+
+Seq=2624970074 Ack=3516257954 Off=5 Res=0 Flags=***A**** Win=512 urp=3840 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2367 2016-02-05 21:27:12
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+204.79.197.200 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1128 ID=29648 flags=2 offset=0 ttl=119 chksum=64011
+Protocol: 6 sport=443 -> dport=49231
+
+Seq=2624971441 Ack=3516257954 Off=5 Res=0 Flags=***AP*** Win=512 urp=14504 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2368 2016-02-05 21:27:12
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+204.79.197.200 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=29649 flags=2 offset=0 ttl=119 chksum=63731
+Protocol: 6 sport=443 -> dport=49231
+
+Seq=2624972529 Ack=3516257954 Off=5 Res=0 Flags=***A**** Win=512 urp=54275 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2369 2016-02-05 21:27:12
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+204.79.197.200 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=29650 flags=2 offset=0 ttl=119 chksum=63730
+Protocol: 6 sport=443 -> dport=49231
+
+Seq=2624973896 Ack=3516257954 Off=5 Res=0 Flags=***A**** Win=512 urp=30500 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2370 2016-02-05 21:27:27
+SURICATA STREAM 3way handshake with ack in wrong dir
+167.86.122.137 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=40 ID=47196 flags=2 offset=0 ttl=49 chksum=39580
+Protocol: 6 sport=80 -> dport=49237
+
+Seq=2213016850 Ack=2804518450 Off=5 Res=0 Flags=***A**** Win=123 urp=18822 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2371 2016-02-05 21:27:27
+ET SHELLCODE UTF-8/16 Encoded Shellcode
+167.86.122.137 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=0 flags=0 offset=0 ttl=0 chksum=48802
+Protocol: 6 sport=80 -> dport=49239
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=55001 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2372 2016-02-05 21:27:27
+ET SHELLCODE UTF-8/16 Encoded Shellcode
+167.86.122.137 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=0 flags=0 offset=0 ttl=0 chksum=48802
+Protocol: 6 sport=80 -> dport=49239
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=3320 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2373 2016-02-05 21:27:27
+ET SHELLCODE UTF-8/16 Encoded Shellcode
+167.86.122.137 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=0 flags=0 offset=0 ttl=0 chksum=48802
+Protocol: 6 sport=80 -> dport=49239
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=37112 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2374 2016-02-05 21:27:27
+ET SHELLCODE UTF-8/16 Encoded Shellcode
+167.86.122.137 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=0 flags=0 offset=0 ttl=0 chksum=48802
+Protocol: 6 sport=80 -> dport=49239
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=21784 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2375 2016-02-05 21:27:27
+ET SHELLCODE UTF-8/16 Encoded Shellcode
+167.86.122.137 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=0 flags=0 offset=0 ttl=0 chksum=48802
+Protocol: 6 sport=80 -> dport=49239
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=28460 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2376 2016-02-05 21:27:27
+ET SHELLCODE UTF-8/16 Encoded Shellcode
+167.86.122.137 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=0 flags=0 offset=0 ttl=0 chksum=48802
+Protocol: 6 sport=80 -> dport=49239
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=62663 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2377 2016-02-05 21:27:27
+ET WEB_CLIENT Possible Malicious String.fromCharCode with charCodeAt String
+167.86.122.137 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=0 flags=0 offset=0 ttl=0 chksum=48802
+Protocol: 6 sport=80 -> dport=49239
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=55001 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2378 2016-02-05 21:27:27
+ET WEB_CLIENT Possible Malicious String.fromCharCode with charCodeAt String
+167.86.122.137 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=0 flags=0 offset=0 ttl=0 chksum=48802
+Protocol: 6 sport=80 -> dport=49239
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=3320 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2379 2016-02-05 21:27:27
+ET WEB_CLIENT Possible Malicious String.fromCharCode with charCodeAt String
+167.86.122.137 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=0 flags=0 offset=0 ttl=0 chksum=48802
+Protocol: 6 sport=80 -> dport=49239
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=37112 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2380 2016-02-05 21:27:27
+ET WEB_CLIENT Possible Malicious String.fromCharCode with charCodeAt String
+167.86.122.137 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=0 flags=0 offset=0 ttl=0 chksum=48802
+Protocol: 6 sport=80 -> dport=49239
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=21784 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2381 2016-02-05 21:27:27
+ET WEB_CLIENT Possible Malicious String.fromCharCode with charCodeAt String
+167.86.122.137 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=0 flags=0 offset=0 ttl=0 chksum=48802
+Protocol: 6 sport=80 -> dport=49239
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=28460 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2382 2016-02-05 21:27:27
+ET WEB_CLIENT Possible Malicious String.fromCharCode with charCodeAt String
+167.86.122.137 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=0 flags=0 offset=0 ttl=0 chksum=48802
+Protocol: 6 sport=80 -> dport=49239
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=62663 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2383 2016-02-05 21:27:28
+FILE tracking PNG (1x1 pixel) (1)
+167.86.122.137 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1316 ID=0 flags=0 offset=0 ttl=0 chksum=48893
+Protocol: 6 sport=80 -> dport=49241
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=47032 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2384 2016-02-05 21:27:28
+FILE tracking PNG (1x1 pixel) (1)
+167.86.122.137 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1316 ID=0 flags=0 offset=0 ttl=0 chksum=48893
+Protocol: 6 sport=80 -> dport=49241
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=47032 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2385 2016-02-05 21:27:29
+ET WEB_CLIENT Possible String.FromCharCode Javascript Obfuscation Attempt
+167.86.122.137 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=0 flags=0 offset=0 ttl=0 chksum=48802
+Protocol: 6 sport=80 -> dport=49239
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=64096 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2386 2016-02-05 21:27:29
+ET WEB_CLIENT Possible String.FromCharCode Javascript Obfuscation Attempt
+167.86.122.137 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=0 flags=0 offset=0 ttl=0 chksum=48802
+Protocol: 6 sport=80 -> dport=49239
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=4164 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2387 2016-02-05 21:27:29
+ET WEB_CLIENT Possible String.FromCharCode Javascript Obfuscation Attempt
+167.86.122.137 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=0 flags=0 offset=0 ttl=0 chksum=48802
+Protocol: 6 sport=80 -> dport=49239
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=2264 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2388 2016-02-05 21:27:29
+ET WEB_CLIENT Possible String.FromCharCode Javascript Obfuscation Attempt
+167.86.122.137 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=0 flags=0 offset=0 ttl=0 chksum=48802
+Protocol: 6 sport=80 -> dport=49239
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=34171 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2389 2016-02-05 21:27:29
+ET WEB_CLIENT Possible String.FromCharCode Javascript Obfuscation Attempt
+167.86.122.137 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=0 flags=0 offset=0 ttl=0 chksum=48802
+Protocol: 6 sport=80 -> dport=49239
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=43734 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2390 2016-02-05 21:27:29
+ET WEB_CLIENT Possible String.FromCharCode Javascript Obfuscation Attempt
+167.86.122.137 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=0 flags=0 offset=0 ttl=0 chksum=48802
+Protocol: 6 sport=80 -> dport=49239
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=31205 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2391 2016-02-05 21:27:29
+ETPRO WEB_CLIENT Mozilla Firefox IFRAME Cross Site Scripting
+167.86.122.137 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=0 flags=0 offset=0 ttl=0 chksum=48802
+Protocol: 6 sport=80 -> dport=49239
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=13016 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2392 2016-02-05 21:27:29
+ETPRO WEB_CLIENT Mozilla Firefox IFRAME Cross Site Scripting
+167.86.122.137 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=0 flags=0 offset=0 ttl=0 chksum=48802
+Protocol: 6 sport=80 -> dport=49239
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=28831 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2393 2016-02-05 21:27:29
+ETPRO WEB_CLIENT Mozilla Firefox IFRAME Cross Site Scripting
+167.86.122.137 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=0 flags=0 offset=0 ttl=0 chksum=48802
+Protocol: 6 sport=80 -> dport=49239
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=5841 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2394 2016-02-05 21:27:29
+ETPRO WEB_CLIENT Mozilla Firefox IFRAME Cross Site Scripting
+167.86.122.137 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=0 flags=0 offset=0 ttl=0 chksum=48802
+Protocol: 6 sport=80 -> dport=49239
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=3329 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2395 2016-02-05 21:27:29
+ETPRO WEB_CLIENT Mozilla Firefox IFRAME Cross Site Scripting
+167.86.122.137 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=0 flags=0 offset=0 ttl=0 chksum=48802
+Protocol: 6 sport=80 -> dport=49239
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=62854 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2396 2016-02-05 21:27:29
+ETPRO WEB_CLIENT Mozilla Firefox IFRAME Cross Site Scripting
+167.86.122.137 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=0 flags=0 offset=0 ttl=0 chksum=48802
+Protocol: 6 sport=80 -> dport=49239
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=20683 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2524 2016-02-05 21:27:32
+ET DNS Query to a .tk domain - Likely Hostile
+10.41.245.114 -> 10.2.41.7
+IPVer=4 hlen=5 tos=0 dlen=55 ID=3652 flags=0 offset=0 ttl=128 chksum=63949
+Protocol: 17 sport=61377 -> dport=53
+
+len=35 chksum=27922
+------------------------------------------------------------------------
+Count:1 Event#3.2532 2016-02-05 21:27:33
+ET SHELLCODE UTF-8/16 Encoded Shellcode
+31.13.70.7 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=0 flags=0 offset=0 ttl=0 chksum=20682
+Protocol: 6 sport=80 -> dport=49262
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=13423 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2533 2016-02-05 21:27:33
+ET SHELLCODE UTF-8/16 Encoded Shellcode
+31.13.70.7 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=0 flags=0 offset=0 ttl=0 chksum=20682
+Protocol: 6 sport=80 -> dport=49262
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=23938 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2534 2016-02-05 21:27:33
+ET SHELLCODE UTF-8/16 Encoded Shellcode
+31.13.70.7 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=0 flags=0 offset=0 ttl=0 chksum=20682
+Protocol: 6 sport=80 -> dport=49262
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=17568 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2535 2016-02-05 21:27:33
+ET SHELLCODE UTF-8/16 Encoded Shellcode
+31.13.70.7 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=0 flags=0 offset=0 ttl=0 chksum=20682
+Protocol: 6 sport=80 -> dport=49262
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=43551 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2536 2016-02-05 21:27:33
+ET SHELLCODE UTF-8/16 Encoded Shellcode
+31.13.70.7 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=0 flags=0 offset=0 ttl=0 chksum=20682
+Protocol: 6 sport=80 -> dport=49262
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=50994 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2537 2016-02-05 21:27:33
+FILE tracking GIF (1x1 pixel)
+167.86.122.137 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=430 ID=0 flags=0 offset=0 ttl=0 chksum=49779
+Protocol: 6 sport=80 -> dport=49239
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=17910 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2538 2016-02-05 21:27:33
+FILE tracking GIF (1x1 pixel)
+167.86.122.137 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=430 ID=0 flags=0 offset=0 ttl=0 chksum=49779
+Protocol: 6 sport=80 -> dport=49239
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=17910 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2539 2016-02-05 21:27:33
+GPL WEB_CLIENT web bug 0x0 gif attempt
+167.86.122.137 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=430 ID=0 flags=0 offset=0 ttl=0 chksum=49779
+Protocol: 6 sport=80 -> dport=49239
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=17910 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2540 2016-02-05 21:27:33
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+54.231.130.3 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=483 ID=4486 flags=2 offset=0 ttl=45 chksum=33289
+Protocol: 6 sport=80 -> dport=49251
+
+Seq=1170624826 Ack=456381359 Off=5 Res=0 Flags=***AP*** Win=62 urp=10402 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2541 2016-02-05 21:27:33
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+54.231.130.3 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=4487 flags=2 offset=0 ttl=45 chksum=32364
+Protocol: 6 sport=80 -> dport=49251
+
+Seq=1170625269 Ack=456381359 Off=5 Res=0 Flags=***A**** Win=62 urp=40097 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2542 2016-02-05 21:27:33
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+54.231.130.3 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=4488 flags=2 offset=0 ttl=45 chksum=32363
+Protocol: 6 sport=80 -> dport=49251
+
+Seq=1170626636 Ack=456381359 Off=5 Res=0 Flags=***A**** Win=62 urp=42346 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2543 2016-02-05 21:27:33
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+54.231.130.3 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=4489 flags=2 offset=0 ttl=45 chksum=32362
+Protocol: 6 sport=80 -> dport=49251
+
+Seq=1170629370 Ack=456381359 Off=5 Res=0 Flags=***A**** Win=62 urp=40081 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2544 2016-02-05 21:27:33
+ET CURRENT_EVENTS SUSPICIOUS Likely Neutrino EK or other EK IE Flash request to DYNDNS set non-standard filename
+10.41.245.114 -> 85.93.0.32
+IPVer=4 hlen=5 tos=0 dlen=417 ID=0 flags=0 offset=0 ttl=0 chksum=25663
+Protocol: 6 sport=49257 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=1580 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2545 2016-02-05 21:27:33
+ET CURRENT_EVENTS Possible Evil Redirector Leading to EK Nov 09 2015 M1
+10.41.245.114 -> 85.93.0.32
+IPVer=4 hlen=5 tos=0 dlen=417 ID=0 flags=0 offset=0 ttl=0 chksum=25663
+Protocol: 6 sport=49257 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=1580 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2546 2016-02-05 21:27:33
+ET POLICY HTTP Request to a *.tk domain
+10.41.245.114 -> 85.93.0.32
+IPVer=4 hlen=5 tos=0 dlen=417 ID=0 flags=0 offset=0 ttl=0 chksum=25663
+Protocol: 6 sport=49257 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=1580 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2563 2016-02-05 21:27:33
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+54.231.142.56 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=603 ID=41389 flags=2 offset=0 ttl=45 chksum=58676
+Protocol: 6 sport=80 -> dport=49268
+
+Seq=1826242385 Ack=2950554762 Off=5 Res=0 Flags=***AP*** Win=62 urp=33664 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2566 2016-02-05 21:27:33
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+54.231.142.56 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=41390 flags=2 offset=0 ttl=45 chksum=57871
+Protocol: 6 sport=80 -> dport=49268
+
+Seq=1826247049 Ack=2950554762 Off=5 Res=0 Flags=***A**** Win=62 urp=1053 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2567 2016-02-05 21:27:33
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+54.231.142.56 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=41391 flags=2 offset=0 ttl=45 chksum=57870
+Protocol: 6 sport=80 -> dport=49268
+
+Seq=1826248416 Ack=2950554762 Off=5 Res=0 Flags=***A**** Win=62 urp=17387 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2568 2016-02-05 21:27:33
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+54.231.142.56 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=41392 flags=2 offset=0 ttl=45 chksum=57869
+Protocol: 6 sport=80 -> dport=49268
+
+Seq=1826249783 Ack=2950554762 Off=5 Res=0 Flags=***A**** Win=62 urp=34031 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2569 2016-02-05 21:27:33
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+54.231.142.56 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=41393 flags=2 offset=0 ttl=45 chksum=57868
+Protocol: 6 sport=80 -> dport=49268
+
+Seq=1826251150 Ack=2950554762 Off=5 Res=0 Flags=***A**** Win=62 urp=30285 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2570 2016-02-05 21:27:33
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+54.231.142.56 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=41394 flags=2 offset=0 ttl=45 chksum=57867
+Protocol: 6 sport=80 -> dport=49268
+
+Seq=1826252517 Ack=2950554762 Off=5 Res=0 Flags=***A**** Win=62 urp=48700 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2600 2016-02-05 21:27:34
+ET CURRENT_EVENTS Possible Evil Redirector Leading to EK Nov 09 2015 M2
+10.41.245.114 -> 85.93.0.32
+IPVer=4 hlen=5 tos=0 dlen=420 ID=0 flags=0 offset=0 ttl=0 chksum=25660
+Protocol: 6 sport=49258 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=62637 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2601 2016-02-05 21:27:34
+ET POLICY HTTP Request to a *.tk domain
+10.41.245.114 -> 85.93.0.32
+IPVer=4 hlen=5 tos=0 dlen=420 ID=0 flags=0 offset=0 ttl=0 chksum=25660
+Protocol: 6 sport=49258 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=62637 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2602 2016-02-05 21:27:34
+ET DNS Query to a *.pw domain - Likely Hostile
+10.41.245.114 -> 10.2.41.7
+IPVer=4 hlen=5 tos=0 dlen=63 ID=4073 flags=0 offset=0 ttl=128 chksum=63520
+Protocol: 17 sport=49890 -> dport=53
+
+len=43 chksum=28969
+------------------------------------------------------------------------
+Count:1 Event#3.2619 2016-02-05 21:27:34
+GPL WEB_CLIENT web bug 0x0 gif attempt
+141.0.19.127 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=417 ID=0 flags=0 offset=0 ttl=0 chksum=6461
+Protocol: 6 sport=80 -> dport=49264
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=60267 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2620 2016-02-05 21:27:35
+ETPRO CURRENT_EVENTS Possible Angler EK Landing URI Struct Aug 5 M1 T1
+10.41.245.114 -> 184.168.47.225
+IPVer=4 hlen=5 tos=0 dlen=469 ID=0 flags=0 offset=0 ttl=0 chksum=1399
+Protocol: 6 sport=49279 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=1364 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2621 2016-02-05 21:27:35
+ET INFO HTTP Request to a *.pw domain
+10.41.245.114 -> 184.168.47.225
+IPVer=4 hlen=5 tos=0 dlen=469 ID=0 flags=0 offset=0 ttl=0 chksum=1399
+Protocol: 6 sport=49279 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=1364 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2622 2016-02-05 21:27:36
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+54.231.142.56 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=565 ID=15641 flags=2 offset=0 ttl=45 chksum=18927
+Protocol: 6 sport=80 -> dport=49267
+
+Seq=161929577 Ack=2188578853 Off=5 Res=0 Flags=***AP*** Win=62 urp=42117 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2623 2016-02-05 21:27:37
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+54.231.142.56 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=15642 flags=2 offset=0 ttl=45 chksum=18084
+Protocol: 6 sport=80 -> dport=49267
+
+Seq=161930102 Ack=2188578853 Off=5 Res=0 Flags=***A**** Win=62 urp=56331 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2624 2016-02-05 21:27:37
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+54.231.142.56 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=15643 flags=2 offset=0 ttl=45 chksum=18083
+Protocol: 6 sport=80 -> dport=49267
+
+Seq=161931469 Ack=2188578853 Off=5 Res=0 Flags=***A**** Win=62 urp=41000 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2625 2016-02-05 21:27:37
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+184.168.47.225 -> 10.41.245.114
+IPVer=4 hlen=5 tos=40 dlen=1407 ID=49453 flags=2 offset=0 ttl=54 chksum=51830
+Protocol: 6 sport=80 -> dport=49279
+
+Seq=1305944168 Ack=2790124913 Off=5 Res=0 Flags=***A**** Win=980 urp=39036 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2626 2016-02-05 21:27:38
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+54.231.142.56 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=43959 flags=2 offset=0 ttl=45 chksum=55302
+Protocol: 6 sport=443 -> dport=49281
+
+Seq=3128178768 Ack=102986853 Off=5 Res=0 Flags=***A**** Win=62 urp=55369 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2627 2016-02-05 21:27:38
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+54.231.142.56 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=34214 flags=2 offset=0 ttl=45 chksum=65047
+Protocol: 6 sport=443 -> dport=49280
+
+Seq=2073403188 Ack=1755167931 Off=5 Res=0 Flags=***A**** Win=62 urp=59586 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2628 2016-02-05 21:27:38
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+54.231.142.56 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=43960 flags=2 offset=0 ttl=45 chksum=55301
+Protocol: 6 sport=443 -> dport=49281
+
+Seq=3128180135 Ack=102986853 Off=5 Res=0 Flags=***A**** Win=62 urp=42603 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2629 2016-02-05 21:27:38
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+54.231.142.56 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1402 ID=43961 flags=2 offset=0 ttl=45 chksum=55305
+Protocol: 6 sport=443 -> dport=49281
+
+Seq=3128181502 Ack=102986853 Off=5 Res=0 Flags=***AP*** Win=62 urp=58667 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2630 2016-02-05 21:27:38
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+54.231.142.56 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=34215 flags=2 offset=0 ttl=45 chksum=65046
+Protocol: 6 sport=443 -> dport=49280
+
+Seq=2073404555 Ack=1755167931 Off=5 Res=0 Flags=***A**** Win=62 urp=54166 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2631 2016-02-05 21:27:38
+ET INFO HTTP Request to a *.pw domain
+10.41.245.114 -> 184.168.47.225
+IPVer=4 hlen=5 tos=0 dlen=457 ID=0 flags=0 offset=0 ttl=0 chksum=1411
+Protocol: 6 sport=49278 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=47082 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2632 2016-02-05 21:27:38
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+54.231.142.56 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1402 ID=34216 flags=2 offset=0 ttl=45 chksum=65050
+Protocol: 6 sport=443 -> dport=49280
+
+Seq=2073405922 Ack=1755167931 Off=5 Res=0 Flags=***AP*** Win=62 urp=43009 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2633 2016-02-05 21:27:38
+ETPRO CURRENT_EVENTS Possible Angler EK IE DHE Post M3
+10.41.245.114 -> 184.168.47.225
+IPVer=4 hlen=5 tos=0 dlen=585 ID=0 flags=0 offset=0 ttl=0 chksum=1283
+Protocol: 6 sport=49279 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=22642 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2634 2016-02-05 21:27:38
+ETPRO CURRENT_EVENTS Possible Angler EK IE DHE Post M3
+10.41.245.114 -> 184.168.47.225
+IPVer=4 hlen=5 tos=0 dlen=228 ID=0 flags=0 offset=0 ttl=0 chksum=1640
+Protocol: 6 sport=49279 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=60240 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2635 2016-02-05 21:27:38
+ET INFO HTTP Request to a *.pw domain
+10.41.245.114 -> 184.168.47.225
+IPVer=4 hlen=5 tos=0 dlen=585 ID=0 flags=0 offset=0 ttl=0 chksum=1283
+Protocol: 6 sport=49279 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=22642 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2636 2016-02-05 21:27:38
+ET INFO HTTP Request to a *.pw domain
+10.41.245.114 -> 184.168.47.225
+IPVer=4 hlen=5 tos=0 dlen=228 ID=0 flags=0 offset=0 ttl=0 chksum=1640
+Protocol: 6 sport=49279 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=60240 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2637 2016-02-05 21:27:38
+ETPRO CURRENT_EVENTS Angler or Nuclear EK Flash Exploit (IE) Jun 16 M1 T2
+10.41.245.114 -> 184.168.47.225
+IPVer=4 hlen=5 tos=0 dlen=486 ID=0 flags=0 offset=0 ttl=0 chksum=1382
+Protocol: 6 sport=49278 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=53098 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2638 2016-02-05 21:27:38
+ET CURRENT_EVENTS SUSPICIOUS Likely Neutrino EK or other EK IE Flash request to DYNDNS set non-standard filename
+10.41.245.114 -> 184.168.47.225
+IPVer=4 hlen=5 tos=0 dlen=486 ID=0 flags=0 offset=0 ttl=0 chksum=1382
+Protocol: 6 sport=49278 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=53098 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2639 2016-02-05 21:27:38
+ET INFO HTTP Request to a *.pw domain
+10.41.245.114 -> 184.168.47.225
+IPVer=4 hlen=5 tos=0 dlen=486 ID=0 flags=0 offset=0 ttl=0 chksum=1382
+Protocol: 6 sport=49278 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=53098 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2640 2016-02-05 21:27:38
+ETPRO CURRENT_EVENTS Angler or Nuclear EK Flash Exploit M2
+184.168.47.225 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=0 flags=0 offset=0 ttl=0 chksum=461
+Protocol: 6 sport=80 -> dport=49278
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=35030 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2644 2016-02-05 21:27:42
+ET INFO HTTP Request to a *.pw domain
+10.41.245.114 -> 184.168.47.225
+IPVer=4 hlen=5 tos=0 dlen=583 ID=0 flags=0 offset=0 ttl=0 chksum=1285
+Protocol: 6 sport=49284 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=26115 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2646 2016-02-05 21:27:50
+ET TROJAN Ursnif Variant CnC Beacon
+10.41.245.114 -> 185.86.77.12
+IPVer=4 hlen=5 tos=0 dlen=379 ID=0 flags=0 offset=0 ttl=0 chksum=45951
+Protocol: 6 sport=49296 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=28574 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2647 2016-02-05 21:27:50
+ET TROJAN Ursnif Variant CnC Beacon 4
+10.41.245.114 -> 185.86.77.12
+IPVer=4 hlen=5 tos=0 dlen=379 ID=0 flags=0 offset=0 ttl=0 chksum=45951
+Protocol: 6 sport=49296 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=28574 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2649 2016-02-05 21:28:01
+ET TROJAN Ursnif Variant CnC Data Exfil
+10.41.245.114 -> 185.86.77.12
+IPVer=4 hlen=5 tos=0 dlen=953 ID=0 flags=0 offset=0 ttl=0 chksum=45377
+Protocol: 6 sport=49296 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=30299 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2650 2016-02-05 21:28:44
+ET DNS Standard query response, Name Error
+10.2.41.7 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=173 ID=10533 flags=0 offset=0 ttl=54 chksum=10359
+Protocol: 17 sport=53 -> dport=63279
+
+len=153 chksum=10056
+------------------------------------------------------------------------
+Count:1 Event#3.2651 2016-02-05 21:28:46
+FILE tracking GIF (1x1 pixel)
+216.58.219.46 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=413 ID=0 flags=0 offset=0 ttl=0 chksum=1623
+Protocol: 6 sport=80 -> dport=49247
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=33403 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2652 2016-02-05 21:28:46
+GPL WEB_CLIENT web bug 0x0 gif attempt
+216.58.219.46 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=413 ID=0 flags=0 offset=0 ttl=0 chksum=1623
+Protocol: 6 sport=80 -> dport=49247
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=33403 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2653 2016-02-05 21:28:46
+FILE tracking GIF (1x1 pixel)
+216.58.219.46 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=413 ID=0 flags=0 offset=0 ttl=0 chksum=1623
+Protocol: 6 sport=80 -> dport=49248
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=33402 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2654 2016-02-05 21:28:46
+GPL WEB_CLIENT web bug 0x0 gif attempt
+216.58.219.46 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=413 ID=0 flags=0 offset=0 ttl=0 chksum=1623
+Protocol: 6 sport=80 -> dport=49248
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=33402 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2655 2016-02-05 21:29:47
+ET POLICY Reserved Internal IP Traffic
+10.41.245.114 -> 10.2.41.7
+IPVer=4 hlen=5 tos=0 dlen=58 ID=4793 flags=0 offset=0 ttl=128 chksum=62805
+Protocol: 17 sport=50383 -> dport=53
+
+len=38 chksum=62289
+------------------------------------------------------------------------
+Count:1 Event#3.2656 2016-02-05 21:29:47
+ET POLICY Reserved Internal IP Traffic
+10.2.41.7 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=97 ID=44573 flags=0 offset=0 ttl=54 chksum=41930
+Protocol: 17 sport=53 -> dport=50383
+
+len=77 chksum=64204
+------------------------------------------------------------------------
+Count:1 Event#3.2657 2016-02-05 21:29:52
+ET TROJAN Ursnif Variant CnC Beacon
+10.41.245.114 -> 185.86.77.12
+IPVer=4 hlen=5 tos=0 dlen=388 ID=0 flags=0 offset=0 ttl=0 chksum=45942
+Protocol: 6 sport=49297 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=46763 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2658 2016-02-05 21:29:52
+ET TROJAN Ursnif Variant CnC Beacon 4
+10.41.245.114 -> 185.86.77.12
+IPVer=4 hlen=5 tos=0 dlen=388 ID=0 flags=0 offset=0 ttl=0 chksum=45942
+Protocol: 6 sport=49297 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=46763 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2659 2016-02-05 21:30:03
+ET TROJAN Ursnif Variant CnC Data Exfil
+10.41.245.114 -> 185.86.77.12
+IPVer=4 hlen=5 tos=0 dlen=946 ID=0 flags=0 offset=0 ttl=0 chksum=45384
+Protocol: 6 sport=49297 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=23819 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2662 2016-02-05 21:31:31
+FILE tracking GIF (1x1 pixel)
+80.247.235.238 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=354 ID=0 flags=0 offset=0 ttl=0 chksum=32021
+Protocol: 6 sport=80 -> dport=49309
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=17502 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2663 2016-02-05 21:31:31
+FILE tracking GIF (1x1 pixel)
+80.247.235.238 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=354 ID=0 flags=0 offset=0 ttl=0 chksum=32021
+Protocol: 6 sport=80 -> dport=49309
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=17502 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2664 2016-02-05 21:31:31
+GPL WEB_CLIENT web bug 0x0 gif attempt
+80.247.235.238 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=354 ID=0 flags=0 offset=0 ttl=0 chksum=32021
+Protocol: 6 sport=80 -> dport=49309
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=17502 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2723 2016-02-05 21:31:49
+ET TROJAN Ursnif Variant CnC Beacon
+10.41.245.114 -> 192.210.137.123
+IPVer=4 hlen=5 tos=0 dlen=401 ID=0 flags=0 offset=0 ttl=0 chksum=28542
+Protocol: 6 sport=49317 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=47173 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2733 2016-02-05 21:32:26
+ET TROJAN Ursnif Variant CnC Data Exfil
+10.41.245.114 -> 192.210.137.123
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=0 flags=0 offset=0 ttl=0 chksum=27536
+Protocol: 6 sport=49317 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=64942 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.2734 2016-02-05 21:32:26
+ET TROJAN Ursnif Variant CnC Data Exfil
+10.41.245.114 -> 192.210.137.123
+IPVer=4 hlen=5 tos=0 dlen=1249 ID=0 flags=0 offset=0 ttl=0 chksum=27694
+Protocol: 6 sport=49317 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=41781 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.3471 2016-02-05 21:33:20
+ET DNS Standard query response, Name Error
+10.2.41.7 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=173 ID=43638 flags=0 offset=0 ttl=54 chksum=42789
+Protocol: 17 sport=53 -> dport=52726
+
+len=153 chksum=55779
+------------------------------------------------------------------------
+Count:1 Event#3.3472 2016-02-05 21:33:48
+FILE tracking GIF (1x1 pixel)
+216.58.219.46 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=413 ID=0 flags=0 offset=0 ttl=0 chksum=1623
+Protocol: 6 sport=80 -> dport=49312
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=34867 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.3473 2016-02-05 21:33:48
+GPL WEB_CLIENT web bug 0x0 gif attempt
+216.58.219.46 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=413 ID=0 flags=0 offset=0 ttl=0 chksum=1623
+Protocol: 6 sport=80 -> dport=49312
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=34867 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.3523 2016-02-05 21:34:25
+ET TROJAN Ursnif Variant CnC Data Exfil
+10.41.245.114 -> 192.210.137.123
+IPVer=4 hlen=5 tos=0 dlen=510 ID=0 flags=0 offset=0 ttl=0 chksum=28433
+Protocol: 6 sport=49380 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=54629 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.3524 2016-02-05 21:34:25
+ET TROJAN Ursnif Variant CnC Data Exfil
+10.41.245.114 -> 192.210.137.123
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=0 flags=0 offset=0 ttl=0 chksum=27536
+Protocol: 6 sport=49380 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=10270 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.3525 2016-02-05 21:34:25
+ET TROJAN Ursnif Variant CnC Data Exfil
+10.41.245.114 -> 192.210.137.123
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=0 flags=0 offset=0 ttl=0 chksum=27536
+Protocol: 6 sport=49380 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=61604 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.3526 2016-02-05 21:34:25
+ET TROJAN Ursnif Variant CnC Data Exfil
+10.41.245.114 -> 192.210.137.123
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=0 flags=0 offset=0 ttl=0 chksum=27536
+Protocol: 6 sport=49380 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=61912 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.3527 2016-02-05 21:34:25
+ET TROJAN Ursnif Variant CnC Data Exfil
+10.41.245.114 -> 192.210.137.123
+IPVer=4 hlen=5 tos=0 dlen=642 ID=0 flags=0 offset=0 ttl=0 chksum=28301
+Protocol: 6 sport=49380 -> dport=80
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=49977 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.3528 2016-02-05 21:34:31
+SURICATA STREAM reassembly segment before base seq
+185.21.102.206 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=0 flags=0 offset=0 ttl=0 chksum=38394
+Protocol: 6 sport=80 -> dport=49351
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=33127 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.3529 2016-02-05 21:34:31
+SURICATA STREAM reassembly segment before base seq
+185.21.102.206 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=0 flags=0 offset=0 ttl=0 chksum=38394
+Protocol: 6 sport=80 -> dport=49351
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=31722 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.3530 2016-02-05 21:34:31
+SURICATA STREAM reassembly segment before base seq
+185.21.102.206 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=0 flags=0 offset=0 ttl=0 chksum=38394
+Protocol: 6 sport=80 -> dport=49351
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=9441 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.3531 2016-02-05 21:34:31
+SURICATA STREAM reassembly segment before base seq
+185.21.102.206 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=0 flags=0 offset=0 ttl=0 chksum=38394
+Protocol: 6 sport=80 -> dport=49351
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=35718 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.3532 2016-02-05 21:34:31
+SURICATA STREAM reassembly segment before base seq
+185.21.102.206 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=89 ID=0 flags=0 offset=0 ttl=0 chksum=39712
+Protocol: 6 sport=80 -> dport=49351
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=15856 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.3533 2016-02-05 21:34:31
+SURICATA STREAM reassembly segment before base seq
+185.21.102.206 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=35603 flags=2 offset=0 ttl=52 chksum=38630
+Protocol: 6 sport=80 -> dport=49351
+
+Seq=4166200910 Ack=903809417 Off=5 Res=0 Flags=***A**** Win=54 urp=11440 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.3534 2016-02-05 21:34:31
+SURICATA STREAM ESTABLISHED retransmission packet before last ack
+185.21.102.206 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=31722 flags=2 offset=0 ttl=52 chksum=42511
+Protocol: 6 sport=80 -> dport=49356
+
+Seq=1739813495 Ack=2882471576 Off=5 Res=0 Flags=***A**** Win=54 urp=4618 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.3535 2016-02-05 21:34:31
+SURICATA STREAM reassembly segment before base seq
+185.21.102.206 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=1407 ID=61669 flags=2 offset=0 ttl=52 chksum=12564
+Protocol: 6 sport=80 -> dport=49352
+
+Seq=1202451153 Ack=464276175 Off=5 Res=0 Flags=***A**** Win=54 urp=10508 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.3536 2016-02-05 21:35:48
+FILE tracking GIF (1x1 pixel)
+216.58.219.46 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=413 ID=0 flags=0 offset=0 ttl=0 chksum=1623
+Protocol: 6 sport=80 -> dport=49386
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=33774 chksum=0
+------------------------------------------------------------------------
+Count:1 Event#3.3537 2016-02-05 21:35:48
+GPL WEB_CLIENT web bug 0x0 gif attempt
+216.58.219.46 -> 10.41.245.114
+IPVer=4 hlen=5 tos=0 dlen=413 ID=0 flags=0 offset=0 ttl=0 chksum=1623
+Protocol: 6 sport=80 -> dport=49386
+
+Seq=0 Ack=0 Off=5 Res=0 Flags=******** Win=0 urp=33774 chksum=0
+
